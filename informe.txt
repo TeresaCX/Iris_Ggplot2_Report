@@ -1,0 +1,13 @@
+Informe: Visualización de datos con ggplot2 usando el dataset Iris
+
+Objetivo:
+Este proyecto tiene como finalidad mostrar cómo utilizar la librería ggplot2 del lenguaje R para generar visualizaciones útiles y efectivas con datos reales. Se utiliza el famoso dataset Iris que contiene mediciones de pétalos y sépalos de tres especies de flores.
+
+Uso:
+A través de un script automatizado en R, se crean cinco gráficos distintos que permiten:
+- Comparar relaciones entre variables numéricas
+- Visualizar distribuciones
+- Observar diferencias entre especies
+
+Caso de estudio:
+El dataset Iris contiene 150 observaciones de flores clasificadas en tres especies: Setosa, Versicolor y Virginica. Cada flor tiene medidas de largo y ancho de sépalos y pétalos. Este proyecto utiliza esas variables para producir gráficos de dispersión, boxplots, histogramas, barras y densidad, generando una visión visual completa del comportamiento de los datos.
